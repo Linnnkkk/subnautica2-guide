@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linnnkkk.github.io/subnautica2-guide/sitemap.xml
